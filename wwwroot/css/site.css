@@ -20,3 +20,39 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+
+.suurem {
+    background-color: red !important;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #999;
+    padding: 6px;
+    text-align: left;
+}
+
+th {
+    background: #eee;
+}
+
+.highlight {
+    color: red;
+    font-weight: bold;
+}
+
+.third-level {
+    background: yellow;
+    display: inline-block;
+    padding: 2px 4px;
+}
+/* 8.Kuva kõik xml andmed tabelina, kus read on üle rea erineva värviga.
+*/
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
