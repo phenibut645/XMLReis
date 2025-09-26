@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<reisid>
+	<reis id="1">
+		<lennujaam transport="PY-1">Puerto La Victoria Airport</lennujaam>
+		<hinnad>20</hinnad>
+		<info>
+			<sihtkoht>Peru</sihtkoht>
+			<algus>2024-10-04T00:00:00</algus>
+			<lopp>2025-03-26T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="2">
+		<lennujaam transport="US-MO">Charles B. Wheeler Downtown Airport</lennujaam>
+		<hinnad>3</hinnad>
+		<info>
+			<sihtkoht>Ethiopia</sihtkoht>
+			<algus>2025-01-10T00:00:00</algus>
+			<lopp>2025-02-05T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="3">
+		<lennujaam transport="SE-K">Ronneby Airport</lennujaam>
+		<hinnad>5</hinnad>
+		<info>
+			<sihtkoht>France</sihtkoht>
+			<algus>2025-02-11T00:00:00</algus>
+			<lopp>2025-06-05T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="4">
+		<lennujaam transport="MM-03">Kyauktu Airport</lennujaam>
+		<hinnad>50</hinnad>
+		<info>
+			<sihtkoht>France</sihtkoht>
+			<algus>2025-09-06T00:00:00</algus>
+			<lopp>2025-03-16T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="5">
+		<lennujaam transport="OM-ZU">Salalah Airport</lennujaam>
+		<hinnad>2</hinnad>
+		<info>
+			<sihtkoht>Germany</sihtkoht>
+			<algus>2025-05-04T00:00:00</algus>
+			<lopp>2025-03-14T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="6">
+		<lennujaam transport="US-MT">Glacier Park International Airport</lennujaam>
+		<hinnad>4</hinnad>
+		<info>
+			<sihtkoht>Singapore</sihtkoht>
+			<algus>2025-05-26T00:00:00</algus>
+			<lopp>2025-07-04T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="7">
+		<lennujaam transport="LS-E">Mafeteng Airport</lennujaam>
+		<hinnad>2</hinnad>
+		<info>
+			<sihtkoht>Singapore</sihtkoht>
+			<algus>2025-05-31T00:00:00</algus>
+			<lopp>2024-09-24T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="8">
+		<lennujaam transport="MN-057">Donoi Airport</lennujaam>
+		<hinnad>2</hinnad>
+		<info>
+			<sihtkoht>Ethiopia</sihtkoht>
+			<algus>2025-06-29T00:00:00</algus>
+			<lopp>2025-05-02T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="9">
+		<lennujaam transport="UA-43">Kerch Airport</lennujaam>
+		<hinnad>200</hinnad>
+		<info>
+			<sihtkoht>USA</sihtkoht>
+			<algus>2025-01-12T00:00:00</algus>
+			<lopp>2024-10-28T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="10">
+		<lennujaam transport="US-PA">Doylestown Airport</lennujaam>
+		<hinnad>60</hinnad>
+		<info>
+			<sihtkoht>USA</sihtkoht>
+			<algus>2025-02-13T00:00:00</algus>
+			<lopp>2024-11-10T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="11">
+		<lennujaam transport="SO-MU">Obbia Airport</lennujaam>
+		<hinnad>70</hinnad>
+		<info>
+			<sihtkoht>USA</sihtkoht>
+			<algus>2025-03-24T00:00:00</algus>
+			<lopp>2025-04-15T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="12">
+		<lennujaam transport="CA-BC">Whistler/Green Lake Water Aerodrome</lennujaam>
+		<hinnad>3</hinnad>
+		<info>
+			<sihtkoht>Qatar</sihtkoht>
+			<algus>2024-09-22T00:00:00</algus>
+			<lopp>2025-06-22T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="13">
+		<lennujaam transport="SE-Q">Gothenburg-Landvetter Airport</lennujaam>
+		<hinnad>15</hinnad>
+		<info>
+			<sihtkoht>India</sihtkoht>
+			<algus>2025-06-03T00:00:00</algus>
+			<lopp>2024-10-06T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="14">
+		<lennujaam transport="US-WY">Casper-Natrona County International Airport</lennujaam>
+		<hinnad>50</hinnad>
+		<info>
+			<sihtkoht>France</sihtkoht>
+			<algus>2025-07-27T00:00:00</algus>
+			<lopp>2025-04-07T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="15">
+		<lennujaam transport="PK-JK">Muzaffarabad Airport</lennujaam>
+		<hinnad>35</hinnad>
+		<info>
+			<sihtkoht>France</sihtkoht>
+			<algus>2025-09-13T00:00:00</algus>
+			<lopp>2025-02-12T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="16">
+		<lennujaam transport="KZ-ALM">Almaty Airport</lennujaam>
+		<hinnad>9</hinnad>
+		<info>
+			<sihtkoht>Australia</sihtkoht>
+			<algus>2025-09-06T00:00:00</algus>
+			<lopp>2025-11-27T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="17">
+		<lennujaam transport="CN-54">Ngari Gunsa Airport</lennujaam>
+		<hinnad>9</hinnad>
+		<info>
+			<sihtkoht>USA</sihtkoht>
+			<algus>2025-07-05T00:00:00</algus>
+			<lopp>2025-03-25T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="18">
+		<lennujaam transport="PG-WPD">Kapal Airport</lennujaam>
+		<hinnad>3</hinnad>
+		<info>
+			<sihtkoht>USA</sihtkoht>
+			<algus>2025-08-31T00:00:00</algus>
+			<lopp>2024-12-03T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="19">
+		<lennujaam transport="BA-BIH">Sarajevo International Airport</lennujaam>
+		<hinnad>300</hinnad>
+		<info>
+			<sihtkoht>USA</sihtkoht>
+			<algus>2024-11-26T00:00:00</algus>
+			<lopp>2024-12-10T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="20">
+		<lennujaam transport="CN-U-A">Anshun Huangguoshu Airport</lennujaam>
+		<hinnad>50</hinnad>
+		<info>
+			<sihtkoht>France</sihtkoht>
+			<algus>2025-06-09T00:00:00</algus>
+			<lopp>2025-12-16T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="21">
+		<lennujaam transport="IR-27">Gorgan Airport</lennujaam>
+		<hinnad>13</hinnad>
+		<info>
+			<sihtkoht>Australia</sihtkoht>
+			<algus>2025-03-15T00:00:00</algus>
+			<lopp>2025-06-03T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="22">
+		<lennujaam transport="ID-NT">Sabu-Tardanu Airport</lennujaam>
+		<hinnad>16</hinnad>
+		<info>
+			<sihtkoht>France</sihtkoht>
+			<algus>2025-08-06T00:00:00</algus>
+			<lopp>2024-12-02T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="23">
+		<lennujaam transport="PG-WPD">Tabubil Airport</lennujaam>
+		<hinnad>4</hinnad>
+		<info>
+			<sihtkoht>USA</sihtkoht>
+			<algus>2025-05-05T00:00:00</algus>
+			<lopp>2025-02-04T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="24">
+		<lennujaam transport="BJ-AQ">Cadjehoun Airport</lennujaam>
+		<hinnad>5</hinnad>
+		<info>
+			<sihtkoht>Kenya</sihtkoht>
+			<algus>2025-01-15T00:00:00</algus>
+			<lopp>2025-03-21T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="25">
+		<lennujaam transport="US-CA">San Bernardino International Airport</lennujaam>
+		<hinnad>5</hinnad>
+		<info>
+			<sihtkoht>Qatar</sihtkoht>
+			<algus>2025-01-04T00:00:00</algus>
+			<lopp>2024-12-02T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="26">
+		<lennujaam transport="AU-WA">Rottnest Island Airport</lennujaam>
+		<hinnad>200</hinnad>
+		<info>
+			<sihtkoht>Singapore</sihtkoht>
+			<algus>2024-12-20T00:00:00</algus>
+			<lopp>2025-08-19T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="27">
+		<lennujaam transport="ZA-EC">Lusikisiki Airport</lennujaam>
+		<hinnad>2</hinnad>
+		<info>
+			<sihtkoht>USA</sihtkoht>
+			<algus>2024-11-11T00:00:00</algus>
+			<lopp>2025-11-18T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="28">
+		<lennujaam transport="LA-HO">Sam Neua Airport</lennujaam>
+		<hinnad>15</hinnad>
+		<info>
+			<sihtkoht>USA</sihtkoht>
+			<algus>2024-10-07T00:00:00</algus>
+			<lopp>2025-05-03T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="29">
+		<lennujaam transport="ID-MA">Saumlaki/Olilit Airport</lennujaam>
+		<hinnad>4</hinnad>
+		<info>
+			<sihtkoht>USA</sihtkoht>
+			<algus>2025-07-29T00:00:00</algus>
+			<lopp>2025-01-24T00:00:00</lopp>
+		</info>
+	</reis>
+	<reis id="30">
+		<lennujaam transport="US-OR">Burns Municipal Airport</lennujaam>
+		<hinnad>30</hinnad>
+		<info>
+			<sihtkoht>Argentina</sihtkoht>
+			<algus>2025-08-23T00:00:00</algus>
+			<lopp>2025-12-12T00:00:00</lopp>
+		</info>
+	</reis>
+</reisid>
